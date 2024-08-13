@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/huemn-assignment/static/css/main.ffe9889a.css",
+    "main.js": "/huemn-assignment/static/js/main.d2d6f4da.js",
+    "static/js/453.0c0e3eb6.chunk.js": "/huemn-assignment/static/js/453.0c0e3eb6.chunk.js",
+    "index.html": "/huemn-assignment/index.html",
+    "main.ffe9889a.css.map": "/huemn-assignment/static/css/main.ffe9889a.css.map",
+    "main.d2d6f4da.js.map": "/huemn-assignment/static/js/main.d2d6f4da.js.map",
+    "453.0c0e3eb6.chunk.js.map": "/huemn-assignment/static/js/453.0c0e3eb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe9889a.css",
+    "static/js/main.d2d6f4da.js"
+  ]
+}
