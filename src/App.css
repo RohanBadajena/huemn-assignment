@@ -1,0 +1,173 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+}
+
+.nav a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.main-content {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.headline h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.buttons button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #f1f3f4;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.chrome-images {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.chrome-images img {
+  width: 300px;
+  height: auto;
+  margin: 0 1rem;
+}
+
+.headline {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.headline-icon {
+  color: #4285F4; 
+  margin-bottom: 1rem;
+}
+
+.headline h1 {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.chrome-images {
+  display: flex;
+  justify-content: center;
+  gap: 1rem; 
+}
+
+.chrome-images img {
+  width: 300px; 
+  border-radius: 8px;
+}
+
+.fast-section {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.fast-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.highlight {
+  display: inline-block;
+  background-color: #e0f4e9;
+  padding: 0.2rem 0.5rem;
+  border-radius: 8px;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.fast-video {
+  width: 80%;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+  background-color: #f1f1f1;
+  padding: 40px 20px;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer-columns {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.footer-column {
+  flex: 1;
+  margin: 0 15px;
+  min-width: 150px;
+}
+
+.footer-column h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.footer-column a {
+  display: block;
+  color: #0072ff;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.footer-column a:hover {
+  text-decoration: underline;
+}
+.scroll-top {
+  position: fixed;
+  right: 20px;
+  bottom: 30px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #0072ff;
+  color: white;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  display: none;
+}
+
+.scroll-top:hover {
+  background-color: #005bb5;
+}
+
+.no-underline {
+  text-decoration: none;
+}
